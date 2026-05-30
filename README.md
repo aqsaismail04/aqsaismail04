@@ -30,13 +30,13 @@
 
 ## 🚀 Projects
 
-### 🐍 Nokia-Style Snake Game *(In Progress)*
+### ♟️ Chess Game (SFML)
 
-> Graphical Snake Game in C++ using SFML inspired by the classic Nokia Snake game.
+> Graphical chess game developed in C++ using SFML, featuring an interactive board, piece movement, and gameplay mechanics.
 
-### ♟️ Terminal Chess Game
+### 🐍 Nokia-Style Snake Game
 
-> Console-based chess game featuring move validation and gameplay mechanics.
+> Terminal-based Snake Game developed in C++, inspired by the classic Nokia mobile game.
 
 ### 🎓 Student Portal Console Application
 
@@ -54,7 +54,6 @@
 
 > Interactive console game with score tracking and multiple rounds.
 
----
 
 ## 📚 Academic Work
 
@@ -84,7 +83,7 @@ Topics Covered:
 
 ## 🔥 Currently Working On
 
-* 🐍 Completing Nokia Snake Game using SFML
+* ♟️ Enhancing the SFML Chess Game
 * 📚 Strengthening C++ Programming Skills
 * 🧩 Practicing Problem Solving
 * 🚀 Building More Software Projects
@@ -95,7 +94,7 @@ Topics Covered:
 
 ![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04\&layout=compact\&theme=tokyonight)
+
 
 ---
 
