@@ -30,29 +30,29 @@
 
 ## 🚀 Projects
 
-### ♟️ Chess Game (SFML)
-
-> Graphical chess game developed in C++ using SFML, featuring an interactive board, piece movement, and gameplay mechanics.
-
-### 🐍 Nokia-Style Snake Game
-
-> Terminal-based Snake Game developed in C++, inspired by the classic Nokia mobile game.
+### ♟️ Chess Game — Terminal
+> 2-player console chess with complete move validation, check/checkmate detection, undo/redo in C++
 
 ### 🎓 Student Portal Console Application
+> Student management system with registration, secure login (3 attempts), result calculation and file handling in C++
 
-> Student management system with registration, login, and grade management features.
+### 📊 Grade Calculator
+> Reads student names and marks from file, calculates average and assigns grades, writes results to output file in C++
 
-### 📊 Student Marks Calculator
+### 🔢 Consecutive Ones Finder
+> Reads binary data from file using dynamic memory, finds maximum consecutive 1s with starting index and length in C++
 
-> Calculates averages, grades, and academic performance.
+### 📈 Test Score Calculator
+> Takes test scores as input, validates them, sorts using Bubble Sort and calculates average in C++
 
 ### 🔐 Password Strength Checker
-
-> Evaluates password strength using multiple validation rules.
+> Evaluates password strength using multiple validation rules in C++
 
 ### 🎮 Rock Paper Scissors Game
+> Interactive 2-player console game with score tracking and multiple rounds in C++
 
-> Interactive console game with score tracking and multiple rounds.
+### 🐍 Nokia-Style Snake Game *(In Progress)*
+> Graphical Snake Game using SFML in C++
 
 ---
 
