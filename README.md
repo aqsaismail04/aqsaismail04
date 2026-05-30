@@ -54,20 +54,6 @@
 
 > Interactive console game with score tracking and multiple rounds.
 
-
-## 📚 Academic Work
-
-### Programming Fundamentals Assignments
-
-Topics Covered:
-
-* Functions
-* Arrays
-* Pointers
-* Dynamic Memory Allocation
-* File Handling
-* Problem Solving Techniques
-
 ---
 
 ## 🏆 Achievements & Activities
