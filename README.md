@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqsa Ismail</h1>
-<h3 align="center">Computer Science Student | C++ Developer | Problem Solver</h3>
+<h3 align="center">Computer Science Student | C++ Programmer | Problem Solver </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎓 BSCS Student at University of Central Punjab (UCP), Lahore
 
-📚 Currently learning C++ Programming Fundamentals and strengthening problem-solving skills
+📚 Currently learning C++ and strengthening problem-solving skills
 
 🎯 Preparing for future Software Engineering internships
 
@@ -88,7 +88,9 @@
 
 📧 [ismailaqsa60@gmail.com](mailto:ismailaqsa60@gmail.com)
 
-💼 LinkedIn:https://www.linkedin.com/in/aqsaismail04/
+💼 LinkedIn: [aqsaismail04](https://www.linkedin.com/in/aqsaismail04/)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
 
 ---
 
