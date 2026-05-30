@@ -15,7 +15,7 @@
 | Category | Skills |
 |----------|--------|
 | Programming | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Concepts | ![OOP](https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge) |
+| Concepts |![Problem Solving](https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge) |
 | Design | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
 | Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) |
 
