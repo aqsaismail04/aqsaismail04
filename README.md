@@ -81,6 +81,8 @@
 ![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04\&show_icons=true\&theme=tokyonight)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -89,8 +91,6 @@
 📧 [ismailaqsa60@gmail.com](mailto:ismailaqsa60@gmail.com)
 
 💼 LinkedIn: [aqsaismail04](https://www.linkedin.com/in/aqsaismail04/)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
 
 ---
 
