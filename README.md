@@ -36,7 +36,7 @@
 |---|---|
 | **Tech** | C++ |
 | **Status** | ✅ Complete |
-| **GitHub** | [View Repository]([https://github.com/aqsaismail04](https://github.com/aqsaismail04/TerminalChess-Project)) |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/TerminalChess-Project) |
 
 **Key Features:**
 - 2-player console chess with complete move validation for all pieces
