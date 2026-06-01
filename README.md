@@ -102,8 +102,60 @@
 ---
 
 <details>
-<summary><b>📈 Test
+<summary><b>📈 Test Score Calculator</b></summary>
+
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/test-score-calculator-cpp) |
+
+**Key Features:**
+- Takes test scores as input and validates them
+- Sorts scores using Bubble Sort algorithm
+- Calculates and displays the average score
+
+</details>
+
 ---
+
+<details>
+<summary><b>🔐 Password Strength Checker</b></summary>
+
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/password-strength-checker) |
+
+**Key Features:**
+- Evaluates password using multiple validation rules
+- Checks length, uppercase, lowercase, digits & special characters
+- Returns strength level: Weak, Medium, or Strong
+
+</details>
+
+---
+
+<details>
+<summary><b>🎮 Rock Paper Scissors Game</b></summary>
+
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/rock-paper-scissors-cpp) |
+
+**Key Features:**
+- Interactive 2-player console game with score tracking
+- Multiple rounds with input validation
+- Clean game flow using loops and conditionals
+
+</details>
+
+---
+
+
 
 ## 🏆 Achievements & Activities
 
