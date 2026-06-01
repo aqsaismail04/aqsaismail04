@@ -30,30 +30,53 @@
 
 ## 🚀 Projects
 
-### ♟️ Chess Game — Terminal
-> 2-player console chess with complete move validation, check/checkmate detection, undo/redo in C++
+<details>
+<summary>♟️ Chess Game — Terminal</summary>
+<br>
+2-player console chess with complete move validation, check/checkmate detection, undo/redo in C++
+</details>
 
-### 🎓 Student Portal Console Application
-> Student management system with registration, secure login (3 attempts), result calculation and file handling in C++
+<details>
+<summary>🎓 Student Portal Console Application</summary>
+<br>
+Student management system with registration, secure login (3 attempts), result calculation and file handling in C++
+</details>
 
-### 📊 Grade Calculator
-> Reads student names and marks from file, calculates average and assigns grades, writes results to output file in C++
+<details>
+<summary>📊 Grade Calculator</summary>
+<br>
+Reads student names and marks from file, calculates average and assigns grades, writes results to output file in C++
+</details>
 
-### 🔢 Consecutive Ones Finder
-> Reads binary data from file using dynamic memory, finds maximum consecutive 1s with starting index and length in C++
+<details>
+<summary>🔢 Consecutive Ones Finder</summary>
+<br>
+Reads binary data from file using dynamic memory, finds maximum consecutive 1s with starting index and length in C++
+</details>
 
-### 📈 Test Score Calculator
-> Takes test scores as input, validates them, sorts using Bubble Sort and calculates average in C++
+<details>
+<summary>📈 Test Score Calculator</summary>
+<br>
+Takes test scores as input, validates them, sorts using Bubble Sort and calculates average in C++
+</details>
 
-### 🔐 Password Strength Checker
-> Evaluates password strength using multiple validation rules in C++
+<details>
+<summary>🔐 Password Strength Checker</summary>
+<br>
+Evaluates password strength using multiple validation rules in C++
+</details>
 
-### 🎮 Rock Paper Scissors Game
-> Interactive 2-player console game with score tracking and multiple rounds in C++
+<details>
+<summary>🎮 Rock Paper Scissors Game</summary>
+<br>
+Interactive 2-player console game with score tracking and multiple rounds in C++
+</details>
 
-### 🐍 Nokia-Style Snake Game *(In Progress)*
-> Graphical Snake Game using SFML in C++
-
+<details>
+<summary>🐍 Nokia-Style Snake Game *(In Progress)*</summary>
+<br>
+Graphical Snake Game using SFML in C++
+</details>
 ---
 
 ## 🏆 Achievements & Activities
