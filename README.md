@@ -175,14 +175,15 @@
 * 🧩 Practicing Problem Solving
 * 🚀 Building More Software Projects
 
----
 ## 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 # 📫 CONNECT WITH ME
 
