@@ -176,16 +176,11 @@
 * 🚀 Building More Software Projects
 
 ---
-
 ## 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04\&show_icons=true\&theme=tokyonight)
-
+![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
-
-
----
 
 ---
 
