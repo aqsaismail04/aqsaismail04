@@ -179,10 +179,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/aqsaismail04)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqsaismail04&theme=tokyonight&hide_border=true)](https://github.com/aqsaismail04)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/aqsaismail04)
 
+</div>
 </div>
 
 # 📫 CONNECT WITH ME
