@@ -177,13 +177,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/aqsaismail04)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/aqsaismail04)
+
+</div>
 
 # 📫 CONNECT WITH ME
 
