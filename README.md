@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aqsa Ismail</h1>
-<h3 align="center">Computer Science Student | C++ Programmer | Problem Solver </h3>
+<h3 align="center">Computer Science Student | C++ Programmer | Problem Solver</h3>
+
+<p align="center">
+<em>"Before I could say Hello World without an error, I failed a hundred times. Now I chase the failures — they teach more." 💻</em>
+</p>
 
 ---
 
@@ -15,16 +19,24 @@
 
 🎨 Freelance Graphic Designer | Canva & Adobe Illustrator
 
+💡 *Consistency over perfection — every day is a step forward.*
+
 ---
 
 ## 🛠️ Skills & Tools
 
-| Category        | Skills                                                                                                                                                                                                                                                                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 💻 Programming  | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)                                                                                                                                                                                                                                                 |
-| 📚 Fundamentals | ![Pointers](https://img.shields.io/badge/Pointers-blueviolet?style=for-the-badge) ![Arrays](https://img.shields.io/badge/Arrays-success?style=for-the-badge) ![File Handling](https://img.shields.io/badge/File%20Handling-orange?style=for-the-badge) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge)      |
-| 🎨 Design       | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white) |
-| 🔧 Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)                        |
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+
+### 🎨 Design Tools
+<img src="https://skillicons.dev/icons?i=canva,illustrator,photoshop" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+| Category        | Skills |
+| --------------- | ------ |
+| 📚 Fundamentals | ![Pointers](https://img.shields.io/badge/Pointers-blueviolet?style=for-the-badge) ![Arrays](https://img.shields.io/badge/Arrays-success?style=for-the-badge) ![File Handling](https://img.shields.io/badge/File%20Handling-orange?style=for-the-badge) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge) |
 
 ---
 
@@ -76,13 +88,21 @@
 
 ---
 
+## 🌍 Future Plans
+
+* 🐍 Master Python & DSA
+* 🇵🇰 Start career in Pakistan's tech industry
+* 🌍 Then take my skills global
+
+> *"The best version of yourself is built through consistency, not perfection."* ✨
+
+---
+
 ## 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04\&show_icons=true\&theme=tokyonight)
-
+![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaismail04&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaismail04&layout=compact&theme=tokyonight)
-
 
 ---
 
