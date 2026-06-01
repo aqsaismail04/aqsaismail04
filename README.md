@@ -27,94 +27,147 @@
 | 🔧 Tools        | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)                        |
 
 ---
-
 ## 🚀 Projects
 
 <details>
 <summary><b>♟️ Chess Game — Terminal</b></summary>
-<br>
 
-- 2-player console-based Chess Game built in C++
-- Complete move validation for all pieces — pawns, rooks, knights, bishops, queens & kings
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+
+**Key Features:**
+- 2-player console chess with complete move validation for all pieces
 - Check and checkmate detection with undo/redo functionality
-- Clean board rendering directly in console with turn tracking
+- Clean board rendering with turn tracking in terminal
 
 </details>
 
+---
+
 <details>
 <summary><b>🎓 Student Portal Console Application</b></summary>
-<br>
 
-- Full-featured Student Management System built in C++
-- Secure login with 3-attempt lockout and student registration
-- GPA/result calculation with grade assignment
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/console-student-portal) |
+
+**Key Features:**
+- Secure login system with 3-attempt lockout
+- Student registration and GPA/result calculation
 - File handling for persistent data storage
 
 </details>
 
+---
+
 <details>
 <summary><b>📊 Grade Calculator</b></summary>
-<br>
 
-- Reads student names and marks from an input file
-- Calculates average score and assigns grades accordingly
-- Writes final results to an output file
-- Uses file I/O, loops, and conditional logic in C++
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+
+**Key Features:**
+- Reads student names and marks from input file
+- Calculates average and assigns grades automatically
+- Writes final results to output file
 
 </details>
+
+---
 
 <details>
 <summary><b>🔢 Consecutive Ones Finder</b></summary>
-<br>
 
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/consecutive-ones.cpp) |
+
+**Key Features:**
 - Reads binary data from file using dynamic memory allocation
 - Finds maximum consecutive 1s with starting index and length
-- Uses pointers, dynamic arrays, and file handling
-- Concepts: Pointers, Dynamic Memory, Char Arrays, Functions, Loops
+- Concepts: Pointers, Dynamic Memory, File Handling, Functions
 
 </details>
+
+---
 
 <details>
 <summary><b>📈 Test Score Calculator</b></summary>
-<br>
 
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/test-score-calculator-cpp) |
+
+**Key Features:**
 - Takes test scores as input and validates them
 - Sorts scores using Bubble Sort algorithm
 - Calculates and displays the average score
-- Concepts: Pointers, Dynamic Memory, Functions, Loops
 
 </details>
+
+---
 
 <details>
 <summary><b>🔐 Password Strength Checker</b></summary>
-<br>
 
-- Evaluates password strength using multiple validation rules
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+
+**Key Features:**
+- Evaluates password using multiple validation rules
 - Checks length, uppercase, lowercase, digits & special characters
 - Returns strength level: Weak, Medium, or Strong
-- Built collaboratively and published on GitHub
 
 </details>
+
+---
 
 <details>
 <summary><b>🎮 Rock Paper Scissors Game</b></summary>
-<br>
 
-- Interactive 2-player console game built in C++
-- Score tracking across multiple rounds
-- Input validation and clean game flow
-- Uses loops, conditionals, and functions
+| | |
+|---|---|
+| **Tech** | C++ |
+| **Status** | ✅ Complete |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+
+**Key Features:**
+- Interactive 2-player console game with score tracking
+- Multiple rounds with input validation
+- Clean game flow using loops and conditionals
 
 </details>
 
-<details>
-<summary><b>🐍 Nokia-Style Snake Game *(In Progress)*</b></summary>
-<br>
+---
 
-- Graphical Snake Game being built using SFML in C++
+<details>
+<summary><b>🐍 Nokia-Style Snake Game</b></summary>
+
+| | |
+|---|---|
+| **Tech** | C++ / SFML |
+| **Status** | 🚧 In Progress |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+
+**Key Features:**
+- Graphical Snake Game using SFML library
 - Real-time input handling and collision detection
-- Score tracking and increasing difficulty
-- Currently under active development 🚧
+- Score tracking with increasing difficulty
 
 </details>
 ---
