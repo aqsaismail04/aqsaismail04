@@ -72,7 +72,7 @@
 |---|---|
 | **Tech** | C++ |
 | **Status** | ✅ Complete |
-| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
+| **GitHub** | [View Repository](https://github.com/aqsaismail04/grade-calculator.cpp) |
 
 **Key Features:**
 - Reads student names and marks from input file
@@ -102,74 +102,7 @@
 ---
 
 <details>
-<summary><b>📈 Test Score Calculator</b></summary>
-
-| | |
-|---|---|
-| **Tech** | C++ |
-| **Status** | ✅ Complete |
-| **GitHub** | [View Repository](https://github.com/aqsaismail04/test-score-calculator-cpp) |
-
-**Key Features:**
-- Takes test scores as input and validates them
-- Sorts scores using Bubble Sort algorithm
-- Calculates and displays the average score
-
-</details>
-
----
-
-<details>
-<summary><b>🔐 Password Strength Checker</b></summary>
-
-| | |
-|---|---|
-| **Tech** | C++ |
-| **Status** | ✅ Complete |
-| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
-
-**Key Features:**
-- Evaluates password using multiple validation rules
-- Checks length, uppercase, lowercase, digits & special characters
-- Returns strength level: Weak, Medium, or Strong
-
-</details>
-
----
-
-<details>
-<summary><b>🎮 Rock Paper Scissors Game</b></summary>
-
-| | |
-|---|---|
-| **Tech** | C++ |
-| **Status** | ✅ Complete |
-| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
-
-**Key Features:**
-- Interactive 2-player console game with score tracking
-- Multiple rounds with input validation
-- Clean game flow using loops and conditionals
-
-</details>
-
----
-
-<details>
-<summary><b>🐍 Nokia-Style Snake Game</b></summary>
-
-| | |
-|---|---|
-| **Tech** | C++ / SFML |
-| **Status** | 🚧 In Progress |
-| **GitHub** | [View Repository](https://github.com/aqsaismail04) |
-
-**Key Features:**
-- Graphical Snake Game using SFML library
-- Real-time input handling and collision detection
-- Score tracking with increasing difficulty
-
-</details>
+<summary><b>📈 Test
 ---
 
 ## 🏆 Achievements & Activities
