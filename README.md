@@ -86,11 +86,23 @@
 
 ---
 
-## 📫 Connect With Me
+---
 
-📧 [ismailaqsa60@gmail.com](mailto:ismailaqsa60@gmail.com)
+# 📫 CONNECT WITH ME
 
-💼 LinkedIn: [aqsaismail04](https://www.linkedin.com/in/aqsaismail04/)
+<div align="center">
+
+<a href="https://github.com/aqsaismail04">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aqsaismail04">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ---
 
