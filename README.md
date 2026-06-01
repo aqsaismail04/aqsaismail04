@@ -31,51 +31,91 @@
 ## 🚀 Projects
 
 <details>
-<summary>♟️ Chess Game — Terminal</summary>
+<summary><b>♟️ Chess Game — Terminal</b></summary>
 <br>
-2-player console chess with complete move validation, check/checkmate detection, undo/redo in C++
+
+- 2-player console-based Chess Game built in C++
+- Complete move validation for all pieces — pawns, rooks, knights, bishops, queens & kings
+- Check and checkmate detection with undo/redo functionality
+- Clean board rendering directly in console with turn tracking
+
 </details>
 
 <details>
-<summary>🎓 Student Portal Console Application</summary>
+<summary><b>🎓 Student Portal Console Application</b></summary>
 <br>
-Student management system with registration, secure login (3 attempts), result calculation and file handling in C++
+
+- Full-featured Student Management System built in C++
+- Secure login with 3-attempt lockout and student registration
+- GPA/result calculation with grade assignment
+- File handling for persistent data storage
+
 </details>
 
 <details>
-<summary>📊 Grade Calculator</summary>
+<summary><b>📊 Grade Calculator</b></summary>
 <br>
-Reads student names and marks from file, calculates average and assigns grades, writes results to output file in C++
+
+- Reads student names and marks from an input file
+- Calculates average score and assigns grades accordingly
+- Writes final results to an output file
+- Uses file I/O, loops, and conditional logic in C++
+
 </details>
 
 <details>
-<summary>🔢 Consecutive Ones Finder</summary>
+<summary><b>🔢 Consecutive Ones Finder</b></summary>
 <br>
-Reads binary data from file using dynamic memory, finds maximum consecutive 1s with starting index and length in C++
+
+- Reads binary data from file using dynamic memory allocation
+- Finds maximum consecutive 1s with starting index and length
+- Uses pointers, dynamic arrays, and file handling
+- Concepts: Pointers, Dynamic Memory, Char Arrays, Functions, Loops
+
 </details>
 
 <details>
-<summary>📈 Test Score Calculator</summary>
+<summary><b>📈 Test Score Calculator</b></summary>
 <br>
-Takes test scores as input, validates them, sorts using Bubble Sort and calculates average in C++
+
+- Takes test scores as input and validates them
+- Sorts scores using Bubble Sort algorithm
+- Calculates and displays the average score
+- Concepts: Pointers, Dynamic Memory, Functions, Loops
+
 </details>
 
 <details>
-<summary>🔐 Password Strength Checker</summary>
+<summary><b>🔐 Password Strength Checker</b></summary>
 <br>
-Evaluates password strength using multiple validation rules in C++
+
+- Evaluates password strength using multiple validation rules
+- Checks length, uppercase, lowercase, digits & special characters
+- Returns strength level: Weak, Medium, or Strong
+- Built collaboratively and published on GitHub
+
 </details>
 
 <details>
-<summary>🎮 Rock Paper Scissors Game</summary>
+<summary><b>🎮 Rock Paper Scissors Game</b></summary>
 <br>
-Interactive 2-player console game with score tracking and multiple rounds in C++
+
+- Interactive 2-player console game built in C++
+- Score tracking across multiple rounds
+- Input validation and clean game flow
+- Uses loops, conditionals, and functions
+
 </details>
 
 <details>
-<summary>🐍 Nokia-Style Snake Game *(In Progress)*</summary>
+<summary><b>🐍 Nokia-Style Snake Game *(In Progress)*</b></summary>
 <br>
-Graphical Snake Game using SFML in C++
+
+- Graphical Snake Game being built using SFML in C++
+- Real-time input handling and collision detection
+- Score tracking and increasing difficulty
+- Currently under active development 🚧
+
 </details>
 ---
 
