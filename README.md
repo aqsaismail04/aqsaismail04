@@ -185,8 +185,8 @@
 * 🌸 Certificate of Achievement — Jashn-e-Baharaan
 * 💼 Logistics Lead — Noor-e-Hijab Event
 * 🤝 Inclusive Student Society (ISS) Team Certificate
-
----
+* 🏆 Award of Appreciation — Islamic Guidance Club, UCP
+* 🎭 Co-Leader — Punjabi Cultural Event, UCP Auditorium
 
 ## 🔥 Currently Working On
 
